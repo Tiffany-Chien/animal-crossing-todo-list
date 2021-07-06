@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Animal Crossing Todo Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](TodoDemo.PNG)
+
+- This is a simple animal crossing todo list, add todo by typing in the bar and hitting enter
+- Item icon changes with keywords like bells, fossils, recipe
+
 
 ## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
